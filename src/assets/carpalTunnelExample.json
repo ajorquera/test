@@ -1,0 +1,100 @@
+{
+	"quizTitle": "Carpal Tunnel Quiz",
+	"quizSynopsis": "What is one of the main symptoms of Carpal Tunnel Syndrome?",
+	"questions": [
+		{
+			"question": "What is one of the main symptoms of carpal tunnel syndrome?",
+			"questionType": "text",
+			"questionPic": "https://coffeebreak.globalrph.com/wp-content/uploads/2021/03/Q1-3.jpg",
+			"answerSelectionType": "single",
+			"answers": ["Sweaty palms", "Finger stiffness", "Numbness in the fingers", "Hand tremors"],
+			"correctAnswer": "3",
+			"messageForCorrectAnswer": "Congratulations!",
+			"messageForIncorrectAnswer": "Incorrect answer.",
+			"explanation": "The median nerve runs from your forearm to the palm of your hand. Carpal tunnel syndrome occurs when this nerve is squeezed (compressed) as it passes through the carpal tunnel. This compression can cause numbness in your thumb and the 3 middle fingers of your hand. Sweaty palms, finger stiffness, and hand tremors are not symptoms of carpal tunnel syndrome.",
+			"point": "1"
+		},
+		{
+			"question": "Which of these is another common symptom of carpal tunnel syndrome?",
+			"questionType": "text",
+			"questionPic": "https://coffeebreak.globalrph.com/wp-content/uploads/2021/03/Q2-1.jpg",
+			"answerSelectionType": "single",
+			"answers": [
+				"Weak grip",
+				"Burning and tingling in the fingers",
+				"Pain that is worse at night",
+				"All of the above"
+			],
+			"correctAnswer": "4",
+			"messageForCorrectAnswer": "Congratulations!",
+			"messageForIncorrectAnswer": "Incorrect answer.",
+			"explanation": "The syndrome makes it hard to grip an object with one or both hands. It also causes pain or numbness in one or both hands, especially at night. You may also feel burning and tingling in your thumb, index, and middle fingers. And your fingers can feel swollen or have “pins and needles.”",
+			"point": "1"
+		},
+		{
+			"question": "Women are more likely than men to develop carpal tunnel syndrome.",
+			"questionType": "text",
+			"questionPic": "https://coffeebreak.globalrph.com/wp-content/uploads/2021/03/Q3-1.jpg",
+			"answerSelectionType": "single",
+			"answers": ["True", "False"],
+			"correctAnswer": "1",
+			"messageForCorrectAnswer": "Congratulations!",
+			"messageForIncorrectAnswer": "Incorrect answer.",
+			"explanation": "Women are 3 times more likely than men to get carpal tunnel syndrome. Researchers think this is because the carpal tunnel is smaller in women than in men.",
+			"point": "1"
+		},
+		{
+			"question": "You are more likely to get carpal tunnel syndrome if you work on an assembly line than in data-entry.",
+			"questionType": "text",
+			"questionPic": "https://coffeebreak.globalrph.com/wp-content/uploads/2021/03/Q4-scaled-1.jpg",
+			"answerSelectionType": "single",
+			"answers": ["True", "False"],
+			"correctAnswer": "0",
+			"messageForCorrectAnswer": "Congratulations!",
+			"messageForIncorrectAnswer": "Incorrect answer.",
+			"explanation": "Carpal tunnel syndrome is 3 times more common in assemblers than in people who work in data-entry. It is also common in people who work in the sewing, finishing, cleaning, and meat-, poultry- or fish-packing industries.",
+			"point": "1"
+		},
+		{
+			"question": "Carpal tunnel release is one of the most common surgeries done in the U.S.",
+			"questionType": "text",
+			"questionPic": "https://coffeebreak.globalrph.com/wp-content/uploads/2021/03/Q5.jpg",
+			"answerSelectionType": "single",
+			"answers": ["True", "False"],
+			"correctAnswer": "0",
+			"messageForCorrectAnswer": "Congratulations!",
+			"messageForIncorrectAnswer": "Incorrect answer.",
+			"explanation": "In carpal tunnel release, the surgeon cuts the band of tissue around the wrist. This makes the carpal tunnel bigger and eases pressure on the median nerve. Talk with your healthcare provider to find out if carpal tunnel surgery is the best choice for you.",
+			"point": "1"
+		},
+		{
+			"question": "Surgery is the only way to treat carpal tunnel syndrome.",
+			"questionType": "text",
+			"questionPic": "https://coffeebreak.globalrph.com/wp-content/uploads/2021/03/Q6-1.jpg",
+			"answerSelectionType": "single",
+			"answers": ["True", "False"],
+			"correctAnswer": "0",
+			"messageForCorrectAnswer": "Congratulations!",
+			"messageForIncorrectAnswer": "Incorrect answer.",
+			"explanation": "Carpal tunnel syndrome can be treated in several ways other than surgery. These include hand splints and anti-inflammatory medicine. You can also make changes to your workstation, such as changing the position of your keyboard.",
+			"point": "1"
+		},
+		{
+			"question": "How can you help prevent carpal tunnel syndrome while at work?",
+			"questionType": "text",
+			"questionPic": "https://coffeebreak.globalrph.com/wp-content/uploads/2021/03/Q7-1.jpg",
+			"answerSelectionType": "single",
+			"answers": [
+				"Take frequent breaks",
+				"Do stretching exercises",
+				"Wear a wrist splint",
+				"All of the above"
+			],
+			"correctAnswer": "0",
+			"messageForCorrectAnswer": "Congratulations!",
+			"messageForIncorrectAnswer": "Incorrect answer.",
+			"explanation": "All of these will help prevent carpal tunnel syndrome. You can also use good posture when working. If you use a keyboard, make sure your wrists are in the correct position when typing.",
+			"point": "1"
+		}
+	]
+}
