@@ -4,6 +4,7 @@
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
+		"ci": "echo 'success'",
 		"package": "svelte-kit package",
 		"preview": "vite preview",
 		"prepare": "svelte-kit sync",
@@ -14,6 +15,7 @@
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "next",
+		"@sveltejs/adapter-static": "^1.0.0-next.36",
 		"@sveltejs/kit": "next",
 		"eslint": "^8.16.0",
 		"eslint-config-prettier": "^8.3.0",
